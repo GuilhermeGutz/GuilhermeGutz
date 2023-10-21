@@ -5,9 +5,9 @@
 ### &nbsp;&nbsp;&nbsp; I'm Guilherme Gutz
 
 <div>
-  <img src="https://github.com/GuilhermeGutz/GuilhermeGutz/blob/main/Pic.png?raw=true min-width="600px" max-width="600px" width="300px" alt="me">
+  <img src="https://github.com/GuilhermeGutz/GuilhermeGutz/blob/main/Pic.png?raw=true style="border-radius: 50%" min-width="600px" max-width="600px" width="300px" alt="me">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegutz&layout=compact&langs_count=10&theme=dark" align="right" alt="sup"/>
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" style="border-radius: 50%" alt="Computador">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 </div>  
 
 <br>
@@ -28,7 +28,7 @@
   <img align="center" alt="Gui-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Gui-Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" />
   <img align="center" alt="Gui-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
-   <img align="center" alt="Gui-arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" />
+  <img align="center" alt="Gui-arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" />
   <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gui-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
