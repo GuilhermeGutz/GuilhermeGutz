@@ -67,4 +67,4 @@ ________________________________________________________________________________
   </p>  
 </div>
 
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
