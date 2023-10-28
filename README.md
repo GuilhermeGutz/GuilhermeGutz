@@ -6,7 +6,7 @@
 
 <div>
   <img src="https://github.com/GuilhermeGutz/GuilhermeGutz/blob/main/Pic.png?raw=true style="border-radius: 50%" min-width="600px" max-width="600px" width="300px" alt="me">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegutz&layout=compact&langs_count=10&theme=dark" align="right" alt="sup"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegutz&layout=compact&langs_count=10&theme=dark" align="right" alt="sup"/>
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 </div>  
 
