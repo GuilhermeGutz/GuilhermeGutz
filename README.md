@@ -1,3 +1,4 @@
+
 <img src="https://64.media.tumblr.com/059c5c6858ba200e7ec2f637bfd44428/tumblr_nzlh474yRf1u6w1edo6_250.gifv" min-width="400px" max-width="400px" width="150px" align="right" alt="sup">
 
 ### Hi there, wellcome 👋
@@ -43,7 +44,7 @@
   <img align="center" alt="Gui-firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" />
   <img align="center" alt="Gui-mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
 </div> 
-_________________________________________________________________________
+ <img src="https://github.com/GuilhermeGutz/GuilhermeGutz/blob/main/lineBar.png">
 <div>
   <h3 style="color: #FFFF00;"> Tool </h3> 
   <img align="center" alt="Gui-git" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
@@ -52,7 +53,7 @@ _________________________________________________________________________
   <img align="center" alt="Gui-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
   <img align="center" alt="Gui-slack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" />
 </div> 
-_______________________________________________________________________________________________________________________
+ <img src="https://github.com/GuilhermeGutz/GuilhermeGutz/blob/main/lineBar.png">
 <div>
   <h3 style="color: #FFFF00;"> Contact </h3> 
   <p align="left">
