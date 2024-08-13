@@ -15,10 +15,10 @@
 
 <p> from BRAZIL 🇧🇷 </p>
 <p>
- &nbsp;&nbsp;&nbsp; Já desenvolvi muitos projetos IOT para o setor industrial, implementação e programação de robôs, desenvolvimento de equipamentos inteligentes, programação de máquinas (M.L) e dimensionamento de tecnologia, e as linguagens principais utilizadas foram o Python e C.
+ &nbsp;&nbsp;&nbsp; I have developed many IOT projects for the industrial sector, implementing and programming robots, developing intelligent equipment, machine programming (M.L) and technology scaling, and the main languages ​​used were Python and C.
 </p>
 <p>  
- &nbsp;&nbsp;&nbsp; Atualmente estudando Typescript com React.js para conhecer mais do desenvolvimento web.
+ &nbsp;&nbsp;&nbsp; I currently work with backend, but I'm full-stack
 </p>
 
 <br>
